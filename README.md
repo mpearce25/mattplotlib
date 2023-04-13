@@ -12,17 +12,17 @@
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/matplotlib/matplotlib?branch=main&svg=true)](https://ci.appveyor.com/project/matplotlib/matplotlib)
 [![Codecov](https://codecov.io/github/matplotlib/matplotlib/badge.svg?branch=main&service=github)](https://codecov.io/github/matplotlib/matplotlib?branch=main)
 
-![image](https://matplotlib.org/_static/logo2.svg)
+![image](mattplotlib_logo.png)
 
-Matplotlib is a comprehensive library for creating static, animated, and
-interactive visualizations in Python.
+Mattplotlib is a comprehensive library for creating static, animated, and
+interactive visualizations in Python for people named Matt.
 
 Check out our [home page](https://matplotlib.org/) for more information.
 
 ![image](https://matplotlib.org/_static/readme_preview.png)
 
-Matplotlib produces publication-quality figures in a variety of hardcopy
-formats and interactive environments across platforms. Matplotlib can be
+Mattplotlib produces publication-quality figures in a variety of hardcopy
+formats and interactive environments across platforms. Mattplotlib can be
 used in Python scripts, Python/IPython shells, web application servers,
 and various graphical user interface toolkits.
 
